@@ -3,7 +3,7 @@
   # 널리 세상을 이롭게 하는 홍익인간 개발자 김영지입니다 👋
   
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20AM%20YOUNGJI%20KIM&fontSize=90"
+    src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20AM%20YOUNGJI%20KIM&fontColor=ffffff&fontSize=90"
   />
   <br />
   <a href="https://git.io/typing-svg">
