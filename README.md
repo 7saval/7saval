@@ -1,4 +1,14 @@
-## Hi there 👋
+## 안녕하세요! 풀스택 개발자 김영지입니다 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20AM%20YOUNGJI%20KIM&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Younji's+github!;Full-stack+Developer;Frontend+Engineer)](https://git.io/typing-svg)  
+
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7saval&layout=compact)
+
+
+<!-- ![Youngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=7saval&show_icons=true&theme=radical) -->
+
 
 <!--
 **7saval/7saval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
