@@ -85,7 +85,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=7saval&layout=compact"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7saval&layout=compact"
     width="40%"
   />
 </p>
